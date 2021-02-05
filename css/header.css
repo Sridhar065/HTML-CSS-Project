@@ -1,0 +1,543 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    overflow-x:hidden;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+
+.main-head{
+    position: relative;
+    background-color: crimson;
+}
+.hed{
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+}
+.hed1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 8%;
+    right: 82%;
+}
+.heder-hed {
+    position: relative;
+    bottom: 644px;
+    left:8% ;
+}
+.hed3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+.hed3 a{
+    text-decoration: none;
+}
+.hed1 img{
+    width: 50%;
+}
+.part4 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+.part4 h1{
+    font-size: 5rem;
+    color: white;
+}
+.part5 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 50%;
+}
+.part5 p{
+    font-size: 1.3rem;
+    color: white;
+}
+
+
+
+
+
+
+
+.asm{
+    width: 100%;
+    height: 50%;
+    opacity: 0.25;
+    background-attachment: fixed;
+}
+.asm1{
+    position: relative;
+}
+.asm2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    right: 85%;
+}
+.asm3{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    right: 63%;
+}
+.asm4{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    right: 35%;
+}
+.asm5{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    right: 5%;
+}
+.asm2, .asm3, .asm4, .asm5{
+    color: rgb(223 15 15 / 99%)
+}
+.asm2 h1{
+    font-size: 1.8rem;
+}
+.asm3 h1{
+    font-size: 1.8rem;}
+.asm4 h1{
+    font-size: 1.8rem;
+}
+.asm5 h1{
+    font-size: 1.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+.amm{
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    background-attachment: fixed;
+}
+.amm1{
+    position: relative;
+}
+.amm2{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    right: 15%;
+}
+.amm2 pre{
+    font-size: 2.5rem;
+}
+.amm3{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    right: 0%;
+}
+.amm4 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 56%;
+    right: 79%;
+}
+.amm5 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 18%;
+}
+.amm6 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 74%;
+    right: 55%;
+}
+.amm7 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 56%;
+    right: 50%;
+}
+.amm8 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 48%;
+}
+.amm9 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 74%;
+    right: 25%;
+}
+.amm10 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 56%;
+    right: 20%;
+}
+.amm11 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 78%;
+}
+.amm12 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 74%;
+    right: -5%;
+}
+
+
+
+
+
+
+
+
+.dot{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color:grey;
+    display:inline-block;
+}
+
+.main-aam{
+    position: relative;
+}
+.aam{
+    width: 100%;
+    height: 80%;
+    opacity: 0.2;
+    background-attachment: fixed;
+}
+.aam1 img{
+    border-radius: 50%;
+    width: 100px;
+}
+.aam2 img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.aam3 img{
+    border-radius: 50%;
+    width: 100px;
+}
+.aam4 img{
+    border-radius: 50%;
+    width: 100px;
+}
+.aam5 h1{
+    font-size: 2.5rem;
+}
+.aam1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    right: 85%;
+}
+.aam2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    right: 63%;
+}
+.aam3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    right: 35%;
+    background-attachment: fixed;
+}
+.aam4 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    right: 5%;
+}
+.aam5 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    right: 35%;
+    background-attachment: fixed;
+}
+.aam6 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 21%;
+    right: 9%;
+}
+.aam7 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 55%;
+    right: 70%;
+}
+.aam8 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 55%;
+    right: 48%;
+}
+.aam9 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 55%;
+    right: 20%;
+}
+.aam10 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 55%;
+    right: -10%;
+}
+
+
+
+
+
+
+
+.main-aaa{
+    position: relative;
+}
+.aaa{
+    width: 100%;
+    height: 80%;
+    opacity: 0.2;
+    background-attachment: fixed;
+}
+.aaa1{
+    border: solid blue;
+}
+.aaa2{
+    border: solid blue;
+}
+.aaa3{
+    border: solid blue;
+}
+.aaa4{
+    border: solid blue;
+}
+.aaa5{
+    border: solid blue;
+}
+.aaa6{
+    width: 20%;
+}
+.aaa7{
+    font-size: 0.8rem;
+}
+.aaa8 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    right: 60%;
+}
+.aaa9 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 52%;
+    right: 19%;
+}
+.aaa10 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    right: -10%;
+}
+.aaa11 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 15%;
+    right: 25%;
+}
+.aaa12 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 25%;
+    right: 8%;
+}
+.aaa11 h1{
+    font-size: 2.5rem;
+}
+.aaa12 p{
+    font-size: 0.8rem;
+}
+
+
+
+
+
+
+
+.main-mmm{
+    position: relative;
+    background-attachment: fixed;
+}
+.mmm{
+    width: 100%;
+    height: 80%;
+    opacity: 0.2;
+    background-attachment: fixed;
+}
+.mmm1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    right: 42.5%;
+}
+.mmm2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 46%;
+    right: 70%;
+}
+.mmm3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 46%;
+    right: 48%;
+}
+.mmm4 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 17%;
+    right: 33%;
+}
+.mmm5 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 48%;
+    right: -16%;
+}
+
+
+
+
+
+
+
+
+.main-mma{
+    position: relative;
+    background-attachment: fixed;
+}
+.mma{
+    width: 100%;
+    height: 30%;
+    background-attachment: fixed;
+}
+.mma1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    right: 23%;
+}
+.mma2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 42%;
+    right: 30%;
+}
+.mma3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 62%;
+    right: 37%;
+}
+.mma3 p{
+    font-size: 0.7rem;
+}
+
+
+
+
+
+
+
+
+
+.menu-maa{
+    width: 100%;
+    height: 45%;
+}
+.maa1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 100%;
+}
+.maa2{
+    width: 20%;
+}
+.maa3{
+    width: 20%;
+}
+.maa4{
+    width: 20%;
+}
+.maa5{
+    width: 20%;
+}
+.maa6{
+    width: 20%;
+}
+.maa2 ul{
+    list-style: none;
+}
+.maa3 ul{
+    list-style: none;
+}
+.maa4 ul{
+    list-style: none;
+}
+.maa5 ul{
+    list-style: none;
+}
+.maa6 ul{
+    list-style: none;
+}
+
+
+
+
+
+
+.main-mam{
+    position: relative;
+}
+.mam{
+    width: 100%;
+    height: 10%;
+    opacity: 0.5;
+    background-attachment: fixed;
+}
+.mam1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+
+
+
+
+
